@@ -1,0 +1,11 @@
+.qodo
+raw/
+all-boards.csv
+dict_v1.csv
+delete_v1.csv
+all-boards-init.csv
+tokenized_titles_test.csv
+tokenized_titles_v1.csv
+tokenized_titles_v2.csv
+doc2vec_model_init
+doc2vec_model_init.dv.vectors.npy
