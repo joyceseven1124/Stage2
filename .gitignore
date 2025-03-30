@@ -9,3 +9,4 @@ tokenized_titles_v1.csv
 tokenized_titles_v2.csv
 doc2vec_model_init
 doc2vec_model_init.dv.vectors.npy
+cleaned/
